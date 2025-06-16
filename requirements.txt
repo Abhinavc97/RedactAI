@@ -1,0 +1,8 @@
+streamlit
+openai
+python-docx
+pandas
+tiktoken
+fitz
+difflib
+tempfile
